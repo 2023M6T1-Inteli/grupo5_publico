@@ -1,0 +1,12 @@
+Etapa 1 -  No caminho "\grupo5\codigo\frontend\my-app>" execute o comando a seguir para instalar as dependências:
+
+    npm i
+Etapa 2 -  No caminho "\grupo5\codigo\frontend\my-app>" execute o comando a seguir para instalar as dependências:
+
+    npm install @mui/icons-material
+
+Etapa 3 -  No caminho "\grupo5\codigo\frontend\my-app>" execute o comando a seguir para executar a aplicação react:
+
+    npm start
+Etapa 4 - No caminho "\grupo5\codigo\frontend\my-app>" execute o comando a seguir para instalar o p5.js
+    npm install p5.js

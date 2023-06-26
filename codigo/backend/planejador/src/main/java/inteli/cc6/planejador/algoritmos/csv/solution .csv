@@ -1,0 +1,22 @@
+Id Solução,44
+Tamanho Jumbo,6030
+Tamanho Mín SOlução,5427
+Qtd. Facas,5
+
+Qtd. Vezes Padrão,Qtd Vezes Rolo 1200,Qtd Vezes Rolo 1210,Qtd Vezes Rolo 1900,Qtd Vezes Rolo 2080,Qtd Vezes Rolo 2200,Qtd Vezes Rolo 2450,Qtd Vezes Rolo 2460,Comprimento em mm perdidos,% Perdido no rolo
+7,2,0,0,0,0,0,0,0,0.00%
+1,3,3,0,0,1,1,1,320,5.31%
+1,0,0,2,2,0,0,0,30,0.50%
+9,0,1,0,1,0,0,0,150,2.49%
+1,0,0,1,0,2,1,1,420,6.97%
+16,0,0,0,0,0,1,0,170,2.82%
+6,0,0,0,0,0,0,1,160,2.65%
+
+Id Rolo,Tamanho Rolo,Demanda,Produzido,Sobra,Prioridade
+0,1200,14,14,0,1
+1,1210,45,47,2,1
+2,1900,18,20,2,1
+3,2080,9,10,1,1
+4,2200,24,25,1,1
+5,2450,16,16,0,1
+6,2460,6,6,0,1
