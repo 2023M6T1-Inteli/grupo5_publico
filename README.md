@@ -10,14 +10,14 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com uma 
 
 # Alunos
 
-* *Aluno 1*
-* *Aluno 2*
-* *Aluno 3*
-* *Aluno 4*
-* *Aluno 5*
-* *Aluno 6*
-* *Aluno 7*
-* *Aluno 8*
+* *Feliope Sampaio*
+* *Jonas Sales*
+* *Luiz Granville*
+* *Mateus Almeida*
+* *Pedro Munhoz*
+* *Sergio Lucas*
+* *Thomas Barton*
+* *Vinicius Santos*
 
 # Descrição
 
