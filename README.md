@@ -10,7 +10,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com uma 
 
 # Alunos
 
-* *Feliope Sampaio*
+* *Felipe Sampaio*
 * *Jonas Sales*
 * *Luiz Granville*
 * *Mateus Almeida*
